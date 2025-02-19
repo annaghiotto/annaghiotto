@@ -39,18 +39,31 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
 
+
 # My Projects:
-## 1. [Aura](https://github.com/pietroruzzante/aura)
+### 1. [Aura](https://github.com/pietroruzzante/aura)
 - University Project: Bioingegneria, Università degli Studi di Padova
 - Description: A mobile app powered by a machine learning model that estimates the probability of experiencing headaches by analyzing smartwatch data and environmental factors.
 - Technologies Used: Machine Learning, Flutter/Dart, RESTful API
 - Link: [Aura](https://github.com/pietroruzzante/aura)
 
-## 2. [Investigating Brain Dopamine Lateralization in Parkinson’s Disease](https://github.com/pietroruzzante/brain-dopamine-lateralization-in-parkinson-disease)
-University Project: Bioingegneria, Università degli Studi di Padova
-Description: A statistical analysis in MATLAB to evaluate the usefulness of SBR value lateralization for diagnosing Parkinson's disease.
-Technologies Used: MATLAB, Statistical Analysis tools
-Link: [Investigating Brain Dopamine Lateralization in Parkinson’s Disease](https://github.com/pietroruzzante/brain-dopamine-lateralization-in-parkinson-disease)
+### 2. [Investigating Brain Dopamine Lateralization in Parkinson’s Disease](https://github.com/pietroruzzante/brain-dopamine-lateralization-in-parkinson-disease)
+- University Project: Bioingegneria, Università degli Studi di Padova
+- Description: A statistical analysis in MATLAB to evaluate the usefulness of SBR value lateralization for diagnosing Parkinson's disease.
+- Technologies Used: MATLAB, Statistical Analysis tools
+- Link: [Investigating Brain Dopamine Lateralization in Parkinson’s Disease](https://github.com/pietroruzzante/brain-dopamine-lateralization-in-parkinson-disease)
+
+### 3. [DualAuth Bioetric System](https://github.com/annaghiotto/DualAuth-Biometric-System)
+- University Project: ISEL, Politecnico de Lisboa
+- Description: A biometric authentication system combining fingerprint and ECG recognition, using Arduino and Raspberry Pi.
+- Technologies Used: Python, C++, Arduino, RaspberryPi
+- Link: [DualAuth Bioetric System](https://github.com/annaghiotto/DualAuth-Biometric-System)
+
+### 4. [ECG-Based Biometric System](https://github.com/annaghiotto/ECG-Based-Biometric-System)
+- University Project: ISEL, Politecnico de Lisboa
+- Description: ECG-based biometric system focusing on feature extraction techniques, using machine learning for identification and authentication.
+- Technologies Used: Python, XGBoost, BioSPPy
+- Link: [ECG-Based Biometric System](https://github.com/annaghiotto/ECG-Based-Biometric-System)
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-g-0b8084214/)
