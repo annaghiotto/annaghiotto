@@ -39,6 +39,19 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
 
+# My Projects:
+## 1. [Aura](https://github.com/pietroruzzante/aura)
+- University Project: Bioingegneria, Università degli Studi di Padova
+- Description: A mobile app powered by a machine learning model that estimates the probability of experiencing headaches by analyzing smartwatch data and environmental factors.
+- Technologies Used: Machine Learning, Flutter/Dart, RESTful API
+- Link: [Aura](https://github.com/pietroruzzante/aura)
+
+## 2. [Investigating Brain Dopamine Lateralization in Parkinson’s Disease](https://github.com/pietroruzzante/brain-dopamine-lateralization-in-parkinson-disease)
+University Project: Bioingegneria, Università degli Studi di Padova
+Description: A statistical analysis in MATLAB to evaluate the usefulness of SBR value lateralization for diagnosing Parkinson's disease.
+Technologies Used: MATLAB, Statistical Analysis tools
+Link: [Investigating Brain Dopamine Lateralization in Parkinson’s Disease](https://github.com/pietroruzzante/brain-dopamine-lateralization-in-parkinson-disease)
+
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-g-0b8084214/)
 
