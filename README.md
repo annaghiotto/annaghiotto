@@ -57,7 +57,7 @@
 - University Project: ISEL, Politecnico de Lisboa
 - Description: A biometric authentication system combining fingerprint and ECG recognition, using Arduino and Raspberry Pi.
 - Technologies Used: Python, C++, Arduino, RaspberryPi
-- Link: [DualAuth Bioetric System](https://github.com/annaghiotto/DualAuth-Biometric-System)
+- Link: [DualAuth Biometric System](https://github.com/annaghiotto/DualAuth-Biometric-System)
 
 ### 4. [ECG-Based Biometric System](https://github.com/annaghiotto/ECG-Based-Biometric-System)
 - University Project: ISEL, Politecnico de Lisboa
