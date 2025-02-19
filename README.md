@@ -53,7 +53,7 @@
 - Technologies Used: MATLAB, Statistical Analysis tools
 - Link: [Investigating Brain Dopamine Lateralization in Parkinson’s Disease](https://github.com/pietroruzzante/brain-dopamine-lateralization-in-parkinson-disease)
 
-### 3. [DualAuth Bioetric System](https://github.com/annaghiotto/DualAuth-Biometric-System)
+### 3. [DualAuth Biometric System](https://github.com/annaghiotto/DualAuth-Biometric-System)
 - University Project: ISEL, Politecnico de Lisboa
 - Description: A biometric authentication system combining fingerprint and ECG recognition, using Arduino and Raspberry Pi.
 - Technologies Used: Python, C++, Arduino, RaspberryPi
