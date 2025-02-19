@@ -3,18 +3,13 @@
 🎓 Neuroengineering student with a passion for machine learning, biomedical signal processing, and neuroscience applications.<br>💡 I enjoy working with Python, analyzing physiological signals, and exploring AI-driven approaches in neuroscience.<br>📸 In my free time, I love photography and traveling.
 
 ## 🔬 Currently working on
-- Machine learning for ECG signal analysis
 - Neuroscience applications of AI
 - Biomedical signal processing
 
 ## ⚡ Skills
 - Programming: Python (Pandas, NumPy, SciPy, Scikit-Learn, XGBoost), MATLAB
 - Machine Learning & Data Analysis
-- Biomedical Signal Processing
-- Neuroscience & Computational Modeling
-
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-g-0b8084214/)
+- Biomedical Signal Processing & Computational Modeling
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
@@ -44,4 +39,9 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
 
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-g-0b8084214/)
+
 ### 🚀 Always open to collaborations and new challenges in neuroengineering and AI!
+
+# 
