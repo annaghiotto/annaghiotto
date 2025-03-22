@@ -1,12 +1,6 @@
 # 💫 About Me:
-## 👋 Hi, I'm Anna!
-🎓 Neuroengineering student with a passion for machine learning, biomedical signal processing, and neuroscience applications.<br>💡 I enjoy working with Python, analyzing physiological signals, and exploring AI-driven approaches in neuroscience.<br>📸 In my free time, I love photography and traveling.
-
-## 🔬 Currently working on
-- Focus Line App: Stress detection during screen time using emotion recognition
-
 ## ⚡ Skills
-- Programming: Python (Pandas, NumPy, SciPy, Scikit-Learn, XGBoost), MATLAB
+- Programming: Python, MATLAB, Flutter
 - Machine Learning & Data Analysis
 - Biomedical Signal Processing & Computational Modeling
 
