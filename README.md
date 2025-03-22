@@ -60,7 +60,3 @@
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-g-0b8084214/)
-
-### 🚀 Always open to collaborations and new challenges in neuroengineering and AI!
-
-# 
