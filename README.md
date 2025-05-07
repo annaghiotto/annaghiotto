@@ -44,21 +44,20 @@
 - Technologies Used: Flutter, Python, Convolutional Neural Networks (CNN), Sklearn, TensorFlow, FastAPI
 - Link: [Focus Line](https://github.com/pietroruzzante/focus-line-app)
 
-### 3. [Investigating Brain Dopamine Lateralization in Parkinson’s Disease](https://github.com/pietroruzzante/brain-dopamine-lateralization-in-parkinson-disease)
+### 3. [ECG-Based Biometric System](https://github.com/annaghiotto/ECG-Based-Biometric-System)
+- University Project: ISEL, Politecnico de Lisboa
+- Description: ECG-based biometric system focusing on feature extraction techniques, using machine learning for identification and authentication.
+- Technologies Used: Python, XGBoost, BioSPPy
+- Link: [ECG-Based Biometric System](https://github.com/annaghiotto/ECG-Based-Biometric-System)
+
+### 4. [Investigating Brain Dopamine Lateralization in Parkinson’s Disease](https://github.com/pietroruzzante/brain-dopamine-lateralization-in-parkinson-disease)
 - University Project: Bioingegneria, Università degli Studi di Padova
 - Description: A statistical analysis in MATLAB to evaluate the usefulness of SBR value lateralization for diagnosing Parkinson's disease.
 - Technologies Used: MATLAB, Statistical Analysis tools
 - Link: [Investigating Brain Dopamine Lateralization in Parkinson’s Disease](https://github.com/pietroruzzante/brain-dopamine-lateralization-in-parkinson-disease)
 
-### 4. [DualAuth Biometric System](https://github.com/annaghiotto/DualAuth-Biometric-System)
+### 5. [DualAuth Biometric System](https://github.com/annaghiotto/DualAuth-Biometric-System)
 - University Project: ISEL, Politecnico de Lisboa
 - Description: A biometric authentication system combining fingerprint and ECG recognition, using Arduino and Raspberry Pi.
 - Technologies Used: Python, C++, Arduino, RaspberryPi
 - Link: [DualAuth Biometric System](https://github.com/annaghiotto/DualAuth-Biometric-System)
-
-### 5. [ECG-Based Biometric System](https://github.com/annaghiotto/ECG-Based-Biometric-System)
-- University Project: ISEL, Politecnico de Lisboa
-- Description: ECG-based biometric system focusing on feature extraction techniques, using machine learning for identification and authentication.
-- Technologies Used: Python, XGBoost, BioSPPy
-- Link: [ECG-Based Biometric System](https://github.com/annaghiotto/ECG-Based-Biometric-System)
-- 
