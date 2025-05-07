@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## ⚡ Skills
-- Programming: Python, MATLAB, Flutter
+- Programming: Python, Dart, C++, MATLAB, R
 - Machine Learning & Data Analysis
 - Biomedical Signal Processing & Computational Modeling
 
