@@ -44,19 +44,24 @@
 - Technologies Used: Flutter, Python, Convolutional Neural Networks (CNN), Sklearn, TensorFlow, FastAPI
 - Link: [Focus Line](https://github.com/pietroruzzante/focus-line-app)
 
-### 3. [ECG-Based Biometric System](https://github.com/annaghiotto/ECG-Based-Biometric-System)
+### 3. [AuraCareBot](https://github.com/annaghiotto/AuraCareBot)
+- Description: AI-powered Telegram chatbot designed to support individuals suffering from migraines. It uses OpenAI’s GPT-4o integrated via LangChain to provide informative, empathetic conversations.
+- Technologies Used: Python, LangChain, OpenAI GPT-4o, python-telegram-bot, Google Drive API, WeatherAPI.
+- Link: [ECG-Based Biometric System](https://github.com/annaghiotto/AuraCareBot)
+
+### 4. [ECG-Based Biometric System](https://github.com/annaghiotto/ECG-Based-Biometric-System)
 - University Project: ISEL, Politecnico de Lisboa
 - Description: ECG-based biometric system focusing on feature extraction techniques, using machine learning for identification and authentication.
 - Technologies Used: Python, XGBoost, BioSPPy
 - Link: [ECG-Based Biometric System](https://github.com/annaghiotto/ECG-Based-Biometric-System)
 
-### 4. [Investigating Brain Dopamine Lateralization in Parkinson’s Disease](https://github.com/pietroruzzante/brain-dopamine-lateralization-in-parkinson-disease)
+### 5. [Investigating Brain Dopamine Lateralization in Parkinson’s Disease](https://github.com/pietroruzzante/brain-dopamine-lateralization-in-parkinson-disease)
 - University Project: Bioingegneria, Università degli Studi di Padova
 - Description: A statistical analysis in MATLAB to evaluate the usefulness of SBR value lateralization for diagnosing Parkinson's disease.
 - Technologies Used: MATLAB, Statistical Analysis tools
 - Link: [Investigating Brain Dopamine Lateralization in Parkinson’s Disease](https://github.com/pietroruzzante/brain-dopamine-lateralization-in-parkinson-disease)
 
-### 5. [DualAuth Biometric System](https://github.com/annaghiotto/DualAuth-Biometric-System)
+### 6. [DualAuth Biometric System](https://github.com/annaghiotto/DualAuth-Biometric-System)
 - University Project: ISEL, Politecnico de Lisboa
 - Description: A biometric authentication system combining fingerprint and ECG recognition, using Arduino and Raspberry Pi.
 - Technologies Used: Python, C++, Arduino, RaspberryPi
