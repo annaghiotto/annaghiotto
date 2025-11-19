@@ -49,5 +49,5 @@
 | Project | Description | Technologies |
 |----------|-------------|---------------|
 | [**AuraCareBot**](https://github.com/annaghiotto/AuraCareBot) | AI-powered Telegram chatbot assisting migraine patients using GPT-4o and LangChain. | Python, LangChain, OpenAI GPT-4o, Telegram API |
-| [**Medical Specialty Classifier**](https://github.com/annaghiotto/Medical-Specialty-Classifier) | NLP System to predict the Medical Specialty of a clinical transcription. | Python, HFTransformers, Scikit-learn, FastAPI |
+| [**Medical Specialty Classifier**](https://github.com/annaghiotto/Medical-Specialty-Classifier) | NLP System to predict the Medical Specialty of a clinical transcription. | Python, HFTransformers, Scikit-learn, Streamlit |
 
